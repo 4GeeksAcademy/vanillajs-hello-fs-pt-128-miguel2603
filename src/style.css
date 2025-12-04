@@ -1,5 +1,28 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: green;
+}
+.card {
+    width: 350px;
+    height: 500px;
+    margin-top: 70px;
+    }
+.headcard {
+    height: 20%;
+    font-size: 80px;
+    margin-left: 20px;
+}
+.bodycard {
+    height: 60%;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 60px;
+}
+.footercard {
+    height: 20%;
+    font-size: 80px;
+    text-align: end;
+    padding-right: 20px;
+    margin-bottom: 40px;
 }
